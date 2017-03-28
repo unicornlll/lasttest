@@ -1,0 +1,188 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>网页标题</title>
+<link rel="stylesheet" type="text/css" href="images/demo2.css" />
+</head>
+<body>
+	<div id="top" class="auto">
+		
+			<img src="images/logo.png" />
+		
+		<div class="nav">
+			<ul>
+				<li><a href="http://www.baidu.com" target="_blank"><span>导航链接一</span></a></li>
+				<li><a href="http://www.baidu.com" target="_blank"><span>导航链接二</span></a></li>
+				<li><a href="http://www.baidu.com" target="_blank"><span>导航链接三</span></a></li>
+				<li><a  style="color:#9D9D9D" href="http://www.baidu.com" target="_blank">导航链接四</a></li>
+			</ul>
+		</div>
+	</div>
+	
+	
+
+	<!-- 
+	<div id="top" class="auto">
+		<div class="logo">
+			<img src="images/logo.png" />
+		</div>
+		<div class="nav">
+			<ul>
+				<li><a href="http://www.baidu.com" target="_blank"><span>导航链接一</span></a></li>
+				<li><a href="http://www.baidu.com" target="_blank"><span>导航链接二</span></a></li>
+				<li><a href="http://www.baidu.com" target="_blank"><span>导航链接三</span></a></li>
+				<li><a  style="color:#9D9D9D" href="http://www.baidu.com" target="_blank">导航链接四</a></li>
+			</ul>
+		</div>
+	</div>
+
+	-->
+	
+	
+	<div id="main1">
+		<div class="auto">
+			<h2>文章一级标题</h2>
+			<h2>文章二级标题</h2>
+			<p>文章作者 文章发表时间</p>
+			<p>
+			这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，换行了<br>
+			这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，换行了<br>
+			这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，<a href="http://life.baidu.com">这里有一个链接到http://life.baidu.com</a>这是一个很长的段落，这是一个很长的段落，<b>这里有个粗体字</b>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落。
+			</p>
+			<p>
+			<img src="images/1.jpg" />
+			</p>
+			<p>
+			这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，换行了<br>
+			这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，<a href="http://life.baidu.com" target="_blank">这里有一个链接点击后打开新窗口链接到http://life.baidu.com</a>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落.
+			</p>
+		</div>
+	</div>
+	
+	<div id="main2">
+		<div class="auto">
+			<h2>另一篇文章一级标题</h2>
+			<h2>文章二级标题</h2>
+			<p>文章作者 文章发表时间</p>
+			<p>
+			这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，换行了<br>
+			这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，换行了<br>
+			这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，<a href="http://life.baidu.com">这里有一个链接到http://life.baidu.com</a>这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落。
+			</p>
+			<p>
+			<img src="images/1.jpg" />
+			</p>
+			<ul>
+				<li>列表项目一</li>
+				<li>列表项目一</li>
+				<li>列表项目一</li>
+			</ul>
+		</div>
+	</div>
+	
+	<div id="main3">
+		<div class="auto">
+			<h3>图片</h3>
+			<p>好看的图片</p>
+			<p><img src="images/1.jpg" /></p>
+			<p>好看的图片</p>
+			<p><img src="images/1.jpg" /></p>
+			<p>好看的图片</p>
+			<p><img src="images/1.jpg" /></p>
+			<p>好看的图片</p>
+			<p><img src="images/1.jpg" /></p>
+			<p>好看的图片</p>
+			<p><img src="images/1.jpg" /></p>
+			<p>好看的图片</p>
+			<p><img src="images/1.jpg" /></p>
+		</div>
+	</div>
+	
+	<div id="main4">
+		<div class="auto">
+			<h2>最后一篇文章一级标题</h2>
+			<h2>文章二级标题</h2>
+			<p>文章作者 文章发表时间</p>
+			<ol>
+				<li>排名1</li>
+				<li>排名2</li>
+				<li>排名3</li>
+			</ol>
+			<p>下面是一个表格，给表格加了一个boder="1"好让你看出是一个表格</p>
+			<table border="1">
+				<tr>
+					<td>表头</td>
+					<td>表头</td>
+					<td>表头</td>
+				</tr>
+				<tr>
+					<td>表内容单元格</td>
+					<td>表内容单元格</td>
+					<td><a href="#dingbu">操作</a></td>
+				</tr>
+				<tr>
+					<td>表内容单元格</td>
+					<td>表内容单元格</td>
+					<td><a href="#dingbu">操作</a></td>
+				</tr>
+				<tr>
+					<td>表内容单元格</td>
+					<td>表内容单元格</td>
+					<td><a href="#dingbu">操作</a></td>
+				</tr>
+				<tr>
+					<td>表内容单元格</td>
+					<td>表内容单元格</td>
+					<td><a href="#dingbu">操作</a></td>
+				</tr>
+				<tr>
+					<td>总计</td>
+					<td>1000</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+	
+	<div id="main5">
+		<div class="auto">
+			<h2>这里以后是一个标题 这是侧栏的标题</h2>
+			<h2>侧栏注册窗口标题</h2>
+			<form>
+			请输入邮箱地址：
+			<input type="text" name="email" value="这是一个文本输入框">
+			<br />
+			邮箱地址请按要求格式输入
+			<br />
+			请输入密码：
+			<input type="text" name="password" value="这是一个文本输入框">
+			请重复输入密码：
+			<input type="text" name="password" value="这是一个文本输入框">
+			<br />
+			密码请为6-16位英文数字
+			<br />
+			男：
+			<input type="radio" checked="checked" name="Sex" value="male" />
+			女：
+			<input type="radio" name="Sex" value="female" />
+			城市：
+			<select name="city">
+			<option value="beijing">北京</option>
+			<option value="shanghai">上海</option>
+			<option value="nanjing">南京</option>
+			<option value="shanxi">陕西</option>
+			</select>
+			爱好：
+			<input type="checkbox" name="yundong">运动
+			<input type="checkbox" name="yishu">艺术
+			<input type="checkbox" name="kexue">科学
+			</form>
+			个人描述：
+			<textarea>这是一个多行输入框，输入您的个人描述	
+		</div>
+	</div>
+	
+	
+	
+</body>
+</html>
